@@ -1,0 +1,16 @@
+output_dir: "."
+navbar:
+    title: "Jessica A. Weidenfeld"
+    left:
+      - text: "Home"
+        href: index.html
+      - text: "Estuary Work"
+        href: estuarywork.html
+      - text: "Graduate Work"  
+        href: graduatework.html
+      - text: "CV"
+        href: about.html
+    right: 
+      - text: "Contact Me"
+        href: contact.html
+        

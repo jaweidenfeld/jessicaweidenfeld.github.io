@@ -1,0 +1,17 @@
+---
+title:
+output: 
+  html_document: 
+    theme: yeti
+---
+
+<br>
+<center># **Jessica Alice Weidenfeld**
+<center>### Masters Student at San Diego State University
+
+
+<center>![](./pictures/seahotdog.jpg){width=450px}
+
+This is my personal website about me and my research 
+
+

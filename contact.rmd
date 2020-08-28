@@ -1,0 +1,12 @@
+---
+title: 
+output:
+  html_document:
+    theme: yeti
+---
+<br>
+<br>
+<center>### Email: jweidenfeld3614@sdsu.edu 
+<br>
+
+<center>![](./pictures/loonlake.jpg){width=2000px,height=200px}

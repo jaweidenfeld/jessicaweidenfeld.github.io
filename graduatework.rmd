@@ -1,0 +1,12 @@
+---
+title: "Graduate Work"
+output: html_document
+---
+<br>
+<br>
+<center> **Starting my Masters at San Diego State
+University from smokey Davis, CA**
+
+#pandemicAcademic
+
+<center>![](./pictures/suisunfire1.jpg){width=900px}

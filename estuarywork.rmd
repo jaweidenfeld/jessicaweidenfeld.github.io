@@ -1,0 +1,21 @@
+---
+title: "Estuary Research"
+author: "Jessica Weidenfeld"
+output: 
+  html_document:
+    theme: yeti
+---
+
+
+# I study non-native invasive clam ecology in Suisun Marsh
+
+
+<center>![](./pictures/Jessica_Marsh_workin.png){width=450px}
+<center>![](./pictures/boatmoving.png)
+
+<br>
+
+# Fun video I made for IEP (Interagency Ecological Program)
+<br>
+
+<video src="./pictures/LGUL9015.m4v" width="320" height="200" controls preload></video>
