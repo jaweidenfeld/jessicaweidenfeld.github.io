@@ -2,11 +2,15 @@
 title: "Graduate Work"
 output: html_document
 ---
-<br>
-<br>
-<center> **Starting my Masters at San Diego State
-University from smokey Davis, CA**
 
-#pandemicAcademic
+<br> <br>
 
-<center>![](./pictures/suisunfire1.jpg){width=900px}
+<center>
+
+**Master's Thesis: The Effects of a Sea Urchins Diet on its Commensal Polychaete**
+
+To read my thesis go here: https://digitalcollections.sdsu.edu/do/d2c4a3af-b019-44d5-8b3e-9fb75a945efc 
+
+<center>
+
+![](./pictures/suisunfire1.jpg){width="900px"}
