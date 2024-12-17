@@ -7,11 +7,11 @@ output:
 
 <br>
 <center># **Jessica Alice Weidenfeld**
-<center>### Masters Student at San Diego State University
+<center>### California Sea Grant State Policy Fellow at The Delta Stewardship Council
 
 
 <center>![](./pictures/seahotdog.jpg){width=450px}
 
-This is my personal website about me and my research 
+This is my personal website my research and career 
 
 
