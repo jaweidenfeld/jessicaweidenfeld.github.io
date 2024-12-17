@@ -6,7 +6,7 @@ output:
 ---
 <br>
 <br>
-<center>### Email: jweidenfeld3614@sdsu.edu 
+<center>### Email: weidenfeldjessica@gmail.com 
 <br>
 
 <center>![](./pictures/loonlake.jpg){width=2000px,height=200px}
